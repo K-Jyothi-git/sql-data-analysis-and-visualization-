@@ -39,3 +39,10 @@ MySQL data analysis project in helping Film Rental Store to
 + find actionable customer/business insights
 + measure and track marketing efforts
 + etc.
+
+## [Company Employees - SQL & Tableau Visualization Project](https://github.com/ptyadana/MySQL-Tableau-for-Data-Analytics-and-Business-Intelligence)
+MySQL & Tableau integration project for analyzing employee data and visualizing the findings across the departments for management including
++ What is breakdown between the male and female employees working in the company each year, starting from 1990?
++ What is the number of male managers to the number of female managers from different departments for each year, starting from 1990?
++ What is the average salary of female versus male employees in the entire company until year 2002? Need to filter out by departments.
++ etc.
