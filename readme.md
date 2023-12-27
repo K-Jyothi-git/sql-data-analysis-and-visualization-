@@ -53,3 +53,10 @@ PostgreSQL project for helping fictional company called Parch & Posey for
 + finding out the relationship with different Accounts
 + monitoring the performance of Sales Reps
 + etc.
+
+## [Digital Music Store - Data Analysis Project](https://github.com/ptyadana/Data-Analysis-for-Digital-Music-Store)
+PostgreSQL Data Analysis project to help Chinook Digital Music Store to help how they can optimize their business opportunities and to help answering business related questions.
++ countries with most invoices
++ city with best customers
++ finding out who the best customer is
++ etc.
