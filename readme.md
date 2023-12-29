@@ -60,3 +60,8 @@ PostgreSQL Data Analysis project to help Chinook Digital Music Store to help how
 + city with best customers
 + finding out who the best customer is
 + etc.
+
+## [Restaurant & Library - Information & Patrons Project](SQL%20Code%20Challenges%20-%20Lynda)
+SQLite project for 
++ **[In the Restaurant](SQL%20Code%20Challenges%20-%20Lynda/In%20the%20Restaurant)** - helping the Restaurant to manage customer information, reservations, orders and party invities in for Restaurant 20th Anniversary.
++ **[At the Library](SQL%20Code%20Challenges%20-%20Lynda/At%20the%20Library)** - helping the Library to manage the books statistics, check out and loan process, managing on due loans, encouraging patrons, etc.
