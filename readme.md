@@ -65,3 +65,9 @@ PostgreSQL Data Analysis project to help Chinook Digital Music Store to help how
 SQLite project for 
 + **[In the Restaurant](SQL%20Code%20Challenges%20-%20Lynda/In%20the%20Restaurant)** - helping the Restaurant to manage customer information, reservations, orders and party invities in for Restaurant 20th Anniversary.
 + **[At the Library](SQL%20Code%20Challenges%20-%20Lynda/At%20the%20Library)** - helping the Library to manage the books statistics, check out and loan process, managing on due loans, encouraging patrons, etc.
+
+## [California Population Project](Database%20Clinics%20-%20MySQL/01.California%20Population%20Projection)
+MySQL project for analyzing [Californa population projection data](
+https://data.ca.gov/dataset/)
++ getting population data and loading for data analysis
++ finidng out male and female populations per county for 2014
